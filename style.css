@@ -14,6 +14,9 @@ body{
     gap: 5rem;
     height: 100vh;
     background-color: var(--bg-main);
+    background-image: url('https://4kwallpapers.com/images/wallpapers/dark-background-abstract-background-network-3d-background-2560x1440-8324.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1{
@@ -59,8 +62,8 @@ span{
 .card,
 .back-card,
 .front-card {
-    height: 10rem;
-    width: 10rem;
+    height: 8rem;
+    width: 8rem;
 }
 
 .back-card,

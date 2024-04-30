@@ -9,7 +9,7 @@ let cardsArray = [
   },
   {
     name: "jQuery",
-    img: "https://www.tutorialsteacher.com/Content/images/home/jquery.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTnOERRdJZSEYeeGJ1s0ReOwaWV0iC2Ra1faqhFZyp12KiFbIYG6REl3a7bQWy8CObCvc&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTnOERRdJZSEYeeGJ1s0ReOwaWV0iC2Ra1faqhFZyp12KiFbIYG6REl3a7bQWy8CObCvc&usqp=CAUhttps://www.logo.wine/a/logo/JQuery/JQuery-Logo.wine.svg",
   },
   {
     name: "JS",
